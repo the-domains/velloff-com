@@ -23,7 +23,7 @@ app_links: []
 isBasedOnUrl: 'https://en.wikipedia.org/wiki/Artificial_neural_network'
 title: 'Artificial neural network - Wikipedia, the free encyclopedia'
 datePublished: '2015-07-11T20:59:53.455Z'
-dateModified: '2015-07-11T20:59:53.455Z'
+dateModified: '2015-07-11T22:13:58.130Z'
 sourcePath: _posts/2015-07-11-artificial-neural-network-wikipedia-the-free-encyclopedia.md
 published: true
 _context: 'http://schema.org'
