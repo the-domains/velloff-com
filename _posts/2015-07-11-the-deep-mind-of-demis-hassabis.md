@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'https://medium.com/backchannel/the-deep-mind-of-demis-hassabis-156112890d8a'
+inLanguage: en
+starred: true
+keywords:
+  - google
+  - learning
+  - things
+  - game
+  - brain
+  - deep
+  - algorithms
+  - neuroscience
+  - computing
+  - hassabis
+description: 'In the race to recruit the best AI talent, Google scored a coup by getting the team led by a former video game guru and chess prodigy From the day in 2011 that Demis Hassabis co-founded DeepMind-with funding by the likes of Elon Musk-the UK-based artificial intelligence startup became the most coveted target of major tech companies.'
 author:
   - name: Steven Levy
     url: 'https://medium.com/@stevenlevy'
@@ -32,24 +47,6 @@ related:
     thumbnail_height: 872
     thumbnail_url: 'http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/promo.jpg'
     thumbnail_width: 1160
-publisher:
-  name: Medium
-  domain: medium.com
-  url: 'https://medium.com'
-  favicon: 'https://dnqgz544uhbo8.cloudfront.net/_/fp/icons/favicon.n7eHNqdWyHhbTLN2-3a-6g.ico'
-keywords:
-  - google
-  - learning
-  - things
-  - game
-  - brain
-  - deep
-  - algorithms
-  - neuroscience
-  - computing
-  - hassabis
-description: 'In the race to recruit the best AI talent, Google scored a coup by getting the team led by a former video game guru and chess prodigy From the day in 2011 that Demis Hassabis co-founded DeepMind-with funding by the likes of Elon Musk-the UK-based artificial intelligence startup became the most coveted target of major tech companies.'
-inLanguage: en
 app_links:
   - url: 'medium:/p/156112890d8a'
     type: ios
@@ -57,18 +54,21 @@ app_links:
     app_store_id: '828256236'
   - url: 'https://medium.com/backchannel/the-deep-mind-of-demis-hassabis-156112890d8a'
     type: web
-isBasedOnUrl: 'https://medium.com/backchannel/the-deep-mind-of-demis-hassabis-156112890d8a'
 title: The Deep Mind of Demis Hassabis
 datePublished: '2015-07-11T06:47:40.044Z'
-starred: true
-authors: []
-dateModified: '2015-07-11T06:47:40.044Z'
+dateModified: '2015-07-11T07:13:21.500Z'
 sourcePath: _posts/2015-07-11-the-deep-mind-of-demis-hassabis.md
 published: true
-_context: 'http://schema.org'
+authors: []
+publisher:
+  name: Medium
+  domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://dnqgz544uhbo8.cloudfront.net/_/fp/icons/favicon.n7eHNqdWyHhbTLN2-3a-6g.ico'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
-[The Deep Mind of Demis Hassabis - Backchannel - Medium][0]
+`[The Deep Mind of Demis Hassabis - Backchannel - Medium][0]`
 
 [0]: https://medium.com/backchannel/the-deep-mind-of-demis-hassabis-156112890d8a
