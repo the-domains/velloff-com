@@ -7,7 +7,7 @@ description: 'Yup, back in SF'
 author: []
 datePublished: '2015-07-11T02:18:12.711Z'
 title: ''
-dateModified: '2015-07-11T06:17:05.742Z'
+dateModified: '2015-07-11T06:24:46.979Z'
 sourcePath: _posts/2015-07-11-yup-back-in-sf.md
 published: true
 authors: []
@@ -21,6 +21,6 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-> # Yup, back in SF
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c632bee8-73a2-4ed7-9985-b181cec2f411.jpg)
+
+# Yup, back in SF
