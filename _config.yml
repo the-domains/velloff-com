@@ -22,9 +22,9 @@ color:
     - '#888789'
     - '#4e4e4d'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose:
   - name: follow
     item: a4159772-ac4b-4ed4-b029-e800c249ea1a
