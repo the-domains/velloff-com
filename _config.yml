@@ -23,7 +23,7 @@ color:
     - '#4e4e4d'
   brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0.8125
   rhythmicContrast: 0
 purpose:
   - name: follow
