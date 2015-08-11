@@ -1,31 +1,31 @@
-name: null
-favicon: null
-layout_spectrum: 0.10848
-typography_spectrum: 1
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.8125
+  brandStrength: 0
+  rhythmicContrast: 0
   brandColors:
     - '#1e1d1c'
     - '#f2f1f6'
     - '#cbcbcb'
     - '#888789'
     - '#4e4e4d'
-  brandStrength: 0
   lightness: 1
-  saturation: 0.8125
-  rhythmicContrast: 0
 purpose:
   - name: follow
-    item: a4159772-ac4b-4ed4-b029-e800c249ea1a
     url: null
+    item: a4159772-ac4b-4ed4-b029-e800c249ea1a
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+layout_spectrum: 0.10848
+typography_spectrum: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+name: velloff
