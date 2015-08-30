@@ -3,16 +3,23 @@
     <channel>
         <title><![CDATA[velloff]]></title>
         <description><![CDATA[velloff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://velloff.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Aug 2015 14:48:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 30 Aug 2015 23:28:20 GMT</lastBuildDate>
+        <atom:link href="http://velloff.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vilson and the veal. ]]></title>
             <description><![CDATA[<article><h1>Vilson and the veal. </h1><p>Vilson and the veal.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d575757-c334-4b82-9819-dd76469abb3c.png"></article>]]></description>
-            <link>undefinedvilson-and-the-veal/index.html</link>
+            <link>http://velloff.com/vilson-and-the-veal/index.html</link>
             <guid isPermaLink="false">76f7a22a-7b8b-44bc-be2e-4a60f8caad3a</guid>
             <pubDate>Fri, 21 Aug 2015 23:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02651939-2c59-402f-a480-4d70944033de.png">]]></description>
+            <link>http://velloff.com/2272d47b-c4e6-43fb-9509-77679bc73923/index.html</link>
+            <guid isPermaLink="false">2272d47b-c4e6-43fb-9509-77679bc73923</guid>
+            <pubDate>Sun, 30 Aug 2015 23:28:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
