@@ -1,3 +1,33 @@
+name: velloff
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - filter:
+      notType:
+        type: WebPage
+    index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
+layout_spectrum: 0.10848
 cta:
   bucket: null
   version: null
@@ -17,15 +47,9 @@ purpose:
   - name: follow
     url: null
     item: a4159772-ac4b-4ed4-b029-e800c249ea1a
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.10848
 typography_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
-name: velloff
