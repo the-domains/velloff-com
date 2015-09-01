@@ -41,11 +41,11 @@ color:
   brandStrength: 0
   lightness: 1
   brandColors:
-    - '#000000'
-    - '#0000FF'
-    - '#FF0000'
-    - '#FFFFFF'
-    - '#00FF00'
+    - '#050502'
+    - '#CFD0D7'
+    - '#919091'
+    - '#3B3730'
+    - '#885402'
   rhythmicContrast: 0
 layout_spectrum: 0.10848
 cta:
