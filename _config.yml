@@ -38,7 +38,7 @@ purpose:
 typography_spectrum: 1
 color:
   saturation: 0.8125
-  brandStrength: 0
+  brandStrength: 0.8028674
   lightness: 1
   brandColors:
     - '#050502'
