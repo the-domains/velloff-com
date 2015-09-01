@@ -37,16 +37,16 @@ purpose:
     item: a4159772-ac4b-4ed4-b029-e800c249ea1a
 typography_spectrum: 1
 color:
-  saturation: 0.8125
+  saturation: 0.1827957
   brandStrength: 0.8028674
-  lightness: 1
+  lightness: 0.2706093
   brandColors:
     - '#050502'
     - '#CFD0D7'
     - '#919091'
     - '#3B3730'
     - '#885402'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.3225806
 layout_spectrum: 0.10848
 cta:
   bucket: null
