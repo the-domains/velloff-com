@@ -1,7 +1,7 @@
 name: velloff
 favicon: null
 layout_spectrum: 0.47055
-typography_spectrum: 0.672043
+typography_spectrum: 0.6617
 collections:
   - filter:
       notType:
