@@ -46,8 +46,8 @@ color:
     - '#5C0103'
     - '#774B15'
   brandStrength: 0.5625
-  lightness: 0.2706093
-  saturation: 0.8673835
+  lightness: 0.4375
+  saturation: 0.5625
   rhythmicContrast: 0.3225806
 purpose:
   - name: follow
