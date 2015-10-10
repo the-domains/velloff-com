@@ -1,7 +1,9 @@
-name: velloff
 favicon: null
-layout_spectrum: 0.2885305
-typography_spectrum: 0.3434887
+name: velloff
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - filter:
       notType:
@@ -26,30 +28,28 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#040406'
-    - '#4C6D9B'
-    - '#FFFFFB'
-    - '#5C0103'
-    - '#774B15'
-  brandStrength: 0.5625
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0.3225806
 purpose:
   - name: follow
     url: null
     item: a4159772-ac4b-4ed4-b029-e800c249ea1a
+color:
+  saturation: 0
+  brandStrength: 0.5625
+  lightness: 0
+  brandColors:
+    - '#031F1F'
+    - '#7F919A'
+    - '#BEE8FF'
+    - '#92B2D0'
+    - '#BDAC44'
+  rhythmicContrast: 0.3225806
+typography_spectrum: 0.3434887
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2885305
+analytics:
+  twitter: null
+  google: null
+  facebook: null
