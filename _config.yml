@@ -1,5 +1,4 @@
-favicon: null
-name: velloff
+layout_spectrum: 0.6696535
 opengraph:
   image: null
   type: null
@@ -33,9 +32,9 @@ purpose:
     url: null
     item: a4159772-ac4b-4ed4-b029-e800c249ea1a
 color:
-  saturation: 0
+  saturation: 0.5262843
   brandStrength: 0.5625
-  lightness: 0
+  lightness: 0.7449223
   brandColors:
     - '#031F1F'
     - '#7F919A'
@@ -48,8 +47,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.2885305
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: velloff
