@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[velloff]]></title>
         <description><![CDATA[velloff]]></description>
         <link>http://velloff.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 10 Oct 2015 03:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 19:27:43 GMT</lastBuildDate>
         <atom:link href="http://velloff.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,60 +21,60 @@
             <pubDate>Fri, 21 Aug 2015 23:31:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76f6e10d-a17e-46c1-848c-080e190020d8.png">]]></description>
-            <link>http://velloff.com/ed22ad96-a253-4cd3-b9b1-f6394b5c7d78/index.html</link>
-            <guid isPermaLink="false">ed22ad96-a253-4cd3-b9b1-f6394b5c7d78</guid>
-            <pubDate>Sat, 10 Oct 2015 03:39:10 GMT</pubDate>
+            <title><![CDATA[Jerry and Nick out on the town. ]]></title>
+            <description><![CDATA[<article><h1>Jerry and Nick out on the town. </h1><p>Jerry and Nick out on the town.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc1e33b1-bde7-4bd7-b041-502d9bbe2f23.png"></article>]]></description>
+            <link>http://velloff.com/jerry-and-nick-out-on-the-town/index.html</link>
+            <guid isPermaLink="false">580769cf-b125-4623-bdbf-8114a15d76f8</guid>
+            <pubDate>Tue, 27 Oct 2015 19:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple]]></title>
+            <description><![CDATA[<article><h1>Apple</h1><p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p><img src="http://images.apple.com/home/images/og.jpg?201509172153"></article>]]></description>
+            <link>https://www.apple.com/</link>
+            <guid isPermaLink="false">1978ee05-9aaf-40e5-b16d-bb881ddcc4e4</guid>
+            <pubDate>Mon, 12 Oct 2015 01:44:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0c954d3-8162-4af8-be11-774e9bc31e63.png">]]></description>
-            <link>http://velloff.com/2593f8f7-091d-4c12-92ec-d2f07cf30736/index.html</link>
-            <guid isPermaLink="false">2593f8f7-091d-4c12-92ec-d2f07cf30736</guid>
-            <pubDate>Sat, 10 Oct 2015 03:39:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6692ad-6980-4e0e-b450-01e456bf23a8.png">]]></description>
+            <link>http://velloff.com/388363b9-8a65-4976-a468-9dcac6ba652f/index.html</link>
+            <guid isPermaLink="false">388363b9-8a65-4976-a468-9dcac6ba652f</guid>
+            <pubDate>Sun, 11 Oct 2015 10:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cool falls.]]></title>
+            <description><![CDATA[<article><h1>Cool falls.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/735ad3f3-d9a7-4b51-b34c-1937307fad68.png"></article>]]></description>
+            <link>http://velloff.com/cool-falls/index.html</link>
+            <guid isPermaLink="false">adf475e0-99ac-4a4b-8606-f10ff0744510</guid>
+            <pubDate>Sun, 11 Oct 2015 07:43:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4616ff15-e708-4cc9-89b7-14895d2f4264.png">]]></description>
-            <link>http://velloff.com/69d8c63c-040b-401d-ab06-5d9f6604b717/index.html</link>
-            <guid isPermaLink="false">69d8c63c-040b-401d-ab06-5d9f6604b717</guid>
-            <pubDate>Sat, 10 Oct 2015 03:39:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c1b22d-e966-4e0d-9824-856a64d87544.jpg">]]></description>
+            <link>http://velloff.com/a14b6baf-5bf1-416e-ad4e-d12338a42790/index.html</link>
+            <guid isPermaLink="false">a14b6baf-5bf1-416e-ad4e-d12338a42790</guid>
+            <pubDate>Sat, 10 Oct 2015 03:55:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Device 3 3]]></title>
+            <description><![CDATA[<article><h1>Device 3 3</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a74024b9-58fa-4cfb-b106-729274c167fa.png"></article>]]></description>
+            <link>http://velloff.com/device-3-3/index.html</link>
+            <guid isPermaLink="false">f5af826b-2d0d-4283-ab51-fad45195df66</guid>
+            <pubDate>Sat, 10 Oct 2015 03:55:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6121062-1d1b-425e-89f8-f2482a3d00ac.png">]]></description>
-            <link>http://velloff.com/4e0a007c-399d-4be3-a84c-efd1432193ad/index.html</link>
-            <guid isPermaLink="false">4e0a007c-399d-4be3-a84c-efd1432193ad</guid>
-            <pubDate>Sat, 10 Oct 2015 03:39:10 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97dc24a4-bdd6-4218-b367-942cd90c1f80.png">]]></description>
+            <link>http://velloff.com/91bb515b-98ab-4f0e-bcd2-ed4093ebb3f4/index.html</link>
+            <guid isPermaLink="false">91bb515b-98ab-4f0e-bcd2-ed4093ebb3f4</guid>
+            <pubDate>Sat, 10 Oct 2015 03:55:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69bb9a11-114e-45e1-8f93-9a5c6884789f.png">]]></description>
-            <link>http://velloff.com/7a8835ad-4cfe-4cde-8d10-2f5a5b2e4709/index.html</link>
-            <guid isPermaLink="false">7a8835ad-4cfe-4cde-8d10-2f5a5b2e4709</guid>
-            <pubDate>Sat, 10 Oct 2015 03:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da42f924-4a28-4c73-a6a3-53405d9f4bc0.png">]]></description>
-            <link>http://velloff.com/c2d936f6-cc9e-4b83-96c7-74b061e0e800/index.html</link>
-            <guid isPermaLink="false">c2d936f6-cc9e-4b83-96c7-74b061e0e800</guid>
-            <pubDate>Sat, 10 Oct 2015 03:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64429ba-2e61-410e-9108-f7f7e894204a.png">]]></description>
-            <link>http://velloff.com/e88deb2a-df36-433f-8d70-0fc74e974cc5/index.html</link>
-            <guid isPermaLink="false">e88deb2a-df36-433f-8d70-0fc74e974cc5</guid>
-            <pubDate>Sat, 10 Oct 2015 03:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb9614cf-8be4-44eb-9b0a-7c348e07b718.png">]]></description>
-            <link>http://velloff.com/54a5be45-2fe2-4c92-9b13-6abb5464220e/index.html</link>
-            <guid isPermaLink="false">54a5be45-2fe2-4c92-9b13-6abb5464220e</guid>
-            <pubDate>Sun, 13 Sep 2015 11:43:14 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/808b555c-22bd-45ef-89f6-af2302915a29.png">]]></description>
+            <link>http://velloff.com/ec2e2237-5185-4359-becb-18a9c4cba371/index.html</link>
+            <guid isPermaLink="false">ec2e2237-5185-4359-becb-18a9c4cba371</guid>
+            <pubDate>Sat, 10 Oct 2015 03:55:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
