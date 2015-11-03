@@ -1,4 +1,4 @@
-name: velloff
+layout_spectrum: 0.3476703
 opengraph:
   image: null
   type: null
@@ -33,15 +33,15 @@ purpose:
     item: a4159772-ac4b-4ed4-b029-e800c249ea1a
 color:
   saturation: 0.5262843
+  lightness: 0.9862604
   brandStrength: 0.5625
-  rhythmicContrast: 0.3225806
   brandColors:
-    - '#031F1F'
-    - '#7F919A'
-    - '#BEE8FF'
-    - '#92B2D0'
-    - '#BDAC44'
-  lightness: 0.3709677
+    - '#180502'
+    - '#FFFFFF'
+    - '#756790'
+    - '#393A53'
+    - '#9A5430'
+  rhythmicContrast: 1
 typography_spectrum: 0.5591398
 cta:
   bucket: null
@@ -52,4 +52,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-layout_spectrum: 0.3476703
+name: velloff
